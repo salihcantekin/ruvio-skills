@@ -21,5 +21,8 @@
     "distributed-lock",
     "idempotency"
   ],
-  "icon": "./assets/icon.png"
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://ruviodb.com/docs/",
+  "supportUrl": "https://github.com/salihcantekin/ruvio-skills/issues",
+  "privacyPolicyUrl": "https://github.com/salihcantekin/ruvio-skills/blob/main/PRIVACY.md"
 }
