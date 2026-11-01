@@ -1,0 +1,20 @@
+{
+  "name": "ruvio",
+  "version": "0.1.0",
+  "description": "Skills for writing code against Ruvio, a Redis-protocol key-value server: its single-command locks, rate limits, idempotency, delayed jobs and cache fills, deployment and configuration, and moving from Redis.",
+  "author": {
+    "name": "Salih Cantekin"
+  },
+  "homepage": "https://ruviodb.com",
+  "repository": "https://github.com/salihcantekin/ruvio-skills",
+  "license": "MIT",
+  "keywords": [
+    "ruvio",
+    "redis",
+    "database",
+    "cache",
+    "rate-limit",
+    "distributed-lock"
+  ],
+  "logo": "assets/icon.png"
+}

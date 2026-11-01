@@ -1,0 +1,16 @@
+{
+  "name": "ruvio",
+  "owner": { "name": "Salih Cantekin", "url": "https://github.com/salihcantekin" },
+  "metadata": {
+    "description": "Agent skills for the Ruvio key-value server."
+  },
+  "plugins": [
+    {
+      "name": "ruvio",
+      "source": "./",
+      "description": "Write correct Ruvio code, deploy and configure Ruvio, and move from Redis.",
+      "category": "database",
+      "tags": ["ruvio", "redis", "database"]
+    }
+  ]
+}
