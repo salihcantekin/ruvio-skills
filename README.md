@@ -44,6 +44,10 @@ The skills describe the latest released Ruvio server. For anything not covered h
 
 Issues and pull requests are welcome. Every command example in a skill must have been run against a released server. Report a wrong command or reply as an issue with the server version.
 
+## Privacy
+
+The plugin collects and sends no data. See [PRIVACY.md](PRIVACY.md).
+
 ## License
 
 [MIT](LICENSE). The Ruvio server is AGPL-3.0; its client libraries are MIT. See the [main repository](https://github.com/salihcantekin/ruvio).
